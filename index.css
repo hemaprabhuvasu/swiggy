@@ -1,0 +1,43 @@
+li{
+   list-style-type: none;
+   padding-left: 20px;
+   float:left;
+   padding:30px;
+   font-size: 30px;
+}
+p{
+    
+    font-size:40px;
+}
+.img{
+    float: right;
+    padding-left: 200px;
+
+}
+.block{
+    background: linear-gradient(white,rgb(230, 56, 230));
+    text-align: left;
+    height: 270px;
+}
+.inline{
+    background-color:lightgrey;
+    font-size:30px;
+    height:250px;
+}
+.play{
+    float: right;
+}
+.line{
+    background-color: black;
+    color: white;
+    height: 500px;
+    font-size: 20px;
+    }
+    th{
+        padding: 30px;
+        font-size: larger;
+    }
+    td{
+        padding: 5px;
+    }
+
